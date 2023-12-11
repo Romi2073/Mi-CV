@@ -1,0 +1,90 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0e4f5;
+}
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.header {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.header img{
+border-radius: 50%;
+width: 10rem;
+height: 15rem;
+position: absolute;
+right: 1.5rem;
+top: 1.5rem;
+}
+
+.profile h1 {
+   margin-left: 1rem; 
+}
+
+.profile h2 {
+    margin-left: 1rem; 
+ }
+
+.información-de-contacto {
+    margin-left: 1rem;
+}
+
+.profile-description {
+    margin-left: 1rem;
+}
+
+.profile-description h2 {
+    text-decoration: underline;
+}
+
+.experience{
+    margin-left: 1rem;
+}
+
+.experience h2{
+    text-decoration: underline;
+}
+
+.skills {
+    margin-left: 1rem;
+}
+
+.skills h2 {
+    text-decoration: underline;
+}
+
+.Courses {
+    margin-left: 1rem;
+}
+
+.Courses h2 {
+    text-decoration: underline;
+}
+
+.education {
+    margin-left: 1rem;
+    
+}
+
+.education h2 {
+    text-decoration: underline;
+}
+
+.more_info {
+    list-style: none;
+    padding: 0;
+    margin-left: 1rem;
+}
+
+.more_info h2 {
+    text-decoration: underline;
+}
+
+
